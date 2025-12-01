@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Teenager Forever",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-01T13:01:28.941072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_Teenager_Forever_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_Teenager_Forever_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TEENAGER FOREVER",
+      "artist": "reezy",
+      "has_synced": true,
+      "path": "select/03_TEENAGER_FOREVER_reezy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "King Gnu - Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_King_Gnu_-_Teenager_Forever_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teenager Forever",
+      "artist": "Janah Rapas",
+      "has_synced": false,
+      "path": "select/05_Teenager_Forever_Janah_Rapas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_Teenager_Forever_King_Gnu.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_02_Teenager_Forever_King_Gnu.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_03_Teenager_Forever_King_Gnu.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_04_Teenager_Forever_King_Gnu.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_05_Teenager_Forever_King_Gnu.txt"
+    }
+  ]
+}
